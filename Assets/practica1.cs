@@ -27,7 +27,7 @@ public class practica1 : MonoBehaviour
             arregloOrden[i] = contador;                 //Se almacena en la posicón iésima la cantidad.
         }    
 
-        return arregloOrden;                           //Refresa el arreglo, (referencia).
+        return arregloOrden;                           //Regresa el arreglo, (referencia).
     }
 
 }
