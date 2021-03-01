@@ -1,2 +1,1 @@
-# DI_Practica1
-Primera práctica de diseño de interacciones.
+# prácticas de diseño de interacciones
